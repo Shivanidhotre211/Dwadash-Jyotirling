@@ -1,0 +1,39 @@
+.sectionid{
+    background-image: url("https://img.freepik.com/premium-photo/abstract-illustration-shivratri-greeting-card-designvector-illustration_837518-26306.jpg?w=740");
+    height:420vh;
+    background-size: 400px;
+
+}
+.Dwadasha-Jyotirlinga-heading{
+    color:white;
+    font-size:38px;
+    font-weight:bold;
+    padding:24px;
+    font-family:"Platypi", serif;
+    text-align:center;
+    
+}
+.Dwadasha-Jyotirlinga-container{
+    border-radius:8px;
+    padding:16px;
+    background-color:white;
+    margin:20px;
+}
+.Dwadasha-Jyotirlinga-container-heading{
+  
+font-family:Arial, Helvetica, sans-serif;
+    font-size:43px;
+    font-weight:bold;
+    color:black;
+}
+.Dwadasha-Jyotirlinga-par{
+    font-size:28px;
+    color:#b996a6;
+    font-family:"Roboto", sans-serif;
+    
+}
+.Dwadasha-Jyotirlinga-container-image{
+    height:160px;
+    width:220px;
+    padding:10px;
+}
